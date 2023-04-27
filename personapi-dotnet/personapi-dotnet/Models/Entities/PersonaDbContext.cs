@@ -124,5 +124,10 @@ public partial class PersonaDbContext : DbContext
         OnModelCreatingPartial(modelBuilder);
     }
 
+    internal object Set<T>(T profesion)
+    {
+        throw new NotImplementedException();
+    }
+
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }
