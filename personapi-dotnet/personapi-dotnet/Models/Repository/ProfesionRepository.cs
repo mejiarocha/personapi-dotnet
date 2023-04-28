@@ -19,6 +19,11 @@ namespace personapi_dotnet.Models.Repository
             return profesion;
         }
 
+        public IEnumerable<Profesion> GetProfesions()
+        {
+            return _context.Profesions.ToList();
+        }
+
         public async Task<bool> DeleteProfesion(Profesion profesion)
         {
             if (profesion == null)

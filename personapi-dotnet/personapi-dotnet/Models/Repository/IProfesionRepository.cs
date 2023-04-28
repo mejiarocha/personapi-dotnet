@@ -7,7 +7,7 @@ namespace personapi_dotnet.Models.Repository
         Task<Profesion> CreateProfesion(Profesion profesion);
         Task<bool> DeleteProfesion(Profesion profesion);
         Profesion GetProfesion(int id);
-        
+        IEnumerable<Profesion> GetProfesions();
 
     }
 }

@@ -153,3 +153,14 @@ C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\pe
 C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\obj\Debug\net7.0\personapi-dotnet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Juan Andres Mejia\Documents\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll

@@ -2,13 +2,50 @@
 using Microsoft.AspNetCore.Mvc;
 using personapi_dotnet.Models.Entities;
 
+
 namespace personapi_dotnet.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProfesionController : ControllerBase
+    public class ProfesionController : Controller
     {
+
         private IProfesionRepository _profesionRepository;
+
+        string baseUrl = "http://localhost:58794/";
+
+        public ActionResult Index()
+        {
+            IEnumerable<Profesion> profesion = null;
+            using (var httpClient = new HttpClient()) { 
+            httpClient.BaseAddress = new Uri("http://localhost:49555/api/");
+                var ResponseTask = httpClient.GetAsync("profesiones");
+                ResponseTask.Wait();
+
+                var result = ResponseTask.Result;
+                if(result.IsSuccessStatusCode)
+                {
+                    var readTask = result.Content.ReadAsAsync<IList<Profesion>>();
+                    readTask.Wait();
+                    profesion = readTask.Result;
+                }
+                else
+                {
+                    profesion = Enumerable.Empty<Profesion>();
+                    ModelState.AddModelError(string.Empty, "Server Error :( " );
+
+                }
+
+            }
+            return View(profesion);
+        }
+
+        [HttpGet]
+        [ActionName(nameof(GetProfesionsAsync))]
+        public IEnumerable<Profesion> GetProfesionsAsync()
+        {
+            return _profesionRepository.GetProfesions();
+        }
 
         public ProfesionController(IProfesionRepository profesionRepository)
         {

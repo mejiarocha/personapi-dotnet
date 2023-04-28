@@ -20,7 +20,7 @@ namespace personapi_dotnet
             builder.Services.AddDbContext<PersonaDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-            builder.Services.AddTransient<IProfesionRepository, ProfesionRepository>();
+            
 
             var app = builder.Build();
 
