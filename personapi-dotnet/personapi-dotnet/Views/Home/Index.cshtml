@@ -7,33 +7,8 @@
 <h2>index</h2>
 
 <p>
-	@Html.ActionLink("create new", "create")
+	@Html.ActionLink("Profesion", "Index","Profesions")
 </p>
-
-<table class="table">
-	<tr>
-		<th>
-			@Html.DisplayNameFor(Model=>Model.Nom)
-		</th>
-		<th>
-			@Html.DisplayNameFor(Model=>Model.Des)
-		</th>
-	</tr>
-	@if (Model != null)
-	{
-		@foreach (var item in Model)
-		{
-			<tr>
-				<th>
-					@Html.DisplayFor(modelItem => item.Nom )
-				</th>
-				<th>
-					@Html.DisplayFor(modelItem => item.Des )
-				</th>
-			</tr>
-		}
-	}
-
-	
-
-</table>
+<p>
+	@Html.ActionLink("Personas","Index","Personas1")
+</p>
