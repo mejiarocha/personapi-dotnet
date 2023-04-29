@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\julia\OneDrive\Desktop\Laboratorio Arquitectura\Codigo\personapi-dotnet\personapi-dotnet\personapi-dotnet
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Estudios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Estudios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Estudios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Estudios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Estudios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,12 +44,72 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Personas1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXMxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Personas1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXMxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Personas1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXMxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Personas1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXMxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Personas1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXMxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Profesions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Profesions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Profesions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Profesions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Profesions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Telefonos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Telefonos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Telefonos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Telefonos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/Telefonos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/julia/OneDrive/Desktop/Laboratorio Arquitectura/Codigo/personapi-dotnet/personapi-dotnet/personapi-dotnet/Views/_ViewImports.cshtml]

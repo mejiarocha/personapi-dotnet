@@ -1,8 +1,20 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IEnumerable<personapi_dotnet.Models.Entities.Profesion>
+
+@{
+	ViewBag.Title = "index";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h2>index</h2>
+
+<p>
+	@Html.ActionLink("Profesion", "Index","Profesions")
+</p>
+<p>
+	@Html.ActionLink("Personas","Index","Personas1")
+</p>
+<p>
+	@Html.ActionLink("Estudios","Index","Estudios")
+</p>
+<p>
+	@Html.ActionLink("Telefonos","Index","Telefonos")
+</p>
